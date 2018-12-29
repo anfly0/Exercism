@@ -1,0 +1,8 @@
+# exclude fils belonging to the phpUnit framework,
+phpunit.phar
+
+#exclude .vscode 
+.vscode
+
+#exclude compiled executables
+*.out
