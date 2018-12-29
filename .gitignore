@@ -6,3 +6,6 @@ phpunit.phar
 
 #exclude compiled executables
 *.out
+
+#exclude exercism metadata files
+**/.exercism/metadata.json
